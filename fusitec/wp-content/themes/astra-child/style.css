@@ -1,0 +1,1117 @@
+/*
+Theme Name: Astra Child
+Theme URI: https://wpastra.com/
+Template: astra
+Author: Brainstorm Force
+Author URI: https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme
+Description: Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
+Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,e-commerce,right-sidebar,custom-colors,editor-style,featured-images,full-width-template,microformats,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready,blog
+Version: 3.9.1.1659557500
+Updated: 2022-08-03 20:11:40
+
+*/
+
+
+/* HEADER */
+
+/*
+.main-header-bar{
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+@media(max-width:921px){
+	#ast-hf-menu-1{
+		padding-top: 85px;
+		position:relative;
+	}
+}
+*/
+
+.ast-custom-button{
+	display: none;
+}
+
+
+
+/* SERVICIOS */
+#post-32 .elementor-element-73be865d .elementor-widget-container ul{
+	list-style:none;
+	margin:0;
+}
+
+
+
+
+
+/* FOOTER */
+footer .ast-builder-html-element{
+	line-height: 25px;
+}
+
+#menu-legal li{
+	line-height:25px;
+}
+
+#menu-legal li a{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* RESPONSIVE */
+
+/* INICIO Y FOOTER */
+@media (max-width: 1024px){
+	#post-368 .elementor-368 .elementor-element.elementor-element-34277c67 {
+  padding: 50px 80px 50px 80px;
+}	
+	#post-368 .elementor-widget-container .elementor-button-wrapper {
+  text-align:center;
+}	
+	
+	
+}
+
+@media(max-width:921px){
+	#post-368 .elementor-element-6720a30c .elementor-widget-container{
+		font-size:13px;		
+	}
+	
+#colophon .footer-widget-area[data-section="section-fb-html-1"] .ast-builder-html-element {
+  text-align: center;
+}
+	
+	#colophon .footer-widget-area[data-section="sidebar-widgets-footer-widget-1"] .footer-widget-area-inner {
+  text-align: center;
+}
+	
+}
+
+
+
+@media(max-width:767px){
+	
+	#post-368 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 10px 75px;
+}
+	
+	#post-368 .elementor-368 .elementor-element.elementor-element-7e21b87 {
+  padding: 20px 200px 20px 200px;
+}
+	
+	#post-368 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+
+
+
+@media (max-width: 675px){
+	#post-368 .elementor-368 .elementor-element.elementor-element-7e21b87 {
+  padding: 20px 150px 20px 150px;	
+}
+}
+
+
+
+
+@media (max-width: 544px){
+	
+	#post-368 .elementor-368 .elementor-element.elementor-element-7e21b87 {
+  padding: 20px 100px 20px 100px;	
+}
+	
+	#colophon .footer-widget-area[data-section="sidebar-widgets-footer-widget-3"] .footer-widget-area-inner {
+  text-align: center;
+}
+	
+}
+
+
+
+@media (max-width: 500px){
+	
+	#post-368 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 10px 30px;
+}
+	
+	#post-368 .elementor-368 .elementor-element.elementor-element-7e21b87 {
+  padding: 20px 20px 20px 20px;	
+}
+	
+	#post-368 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 16px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+/* GAMA RESIDENCIAL */
+@media(max-width:921px){
+	
+	#post-775 .elementor-775 .elementor-element.elementor-element-3af6017 > .elementor-widget-container{
+		padding: 20px 0px 20px 50px;
+	}
+	
+	#post-775 .elementor-775 .elementor-element.elementor-element-3af6017 .elementor-heading-title{
+		font-size:30px;
+	}
+	
+	#post-775 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 16px;
+}
+}
+
+
+@media (max-width: 767px){
+	#post-775 .elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 350px;
+}
+}
+
+@media(max-width:470px){
+	#post-775 .elementor-775 .elementor-element.elementor-element-3af6017 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-775 .elementor-775 .elementor-element.elementor-element-3af6017 .elementor-heading-title{
+		font-size:20px;
+	}
+}
+
+@media(max-width:330px){
+	#post-775 .elementor-widget-wrap > .elementor-element {
+  width: 100%;
+}
+}
+
+
+
+
+
+
+
+/* PUERTA SECCIONAL RESIDENCIAL */
+
+@media (max-width: 1024px){
+	#post-952 .elementor-952 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-952 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-952 .elementor-952 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-952 .elementor-952 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-952 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+/* PUERTA BASCULANTE MUELLES */
+
+@media (max-width: 1024px){
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1051 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1051 .elementor-1051 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1051 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+/* TRABAJOS METÁLICOS */
+
+@media (max-width: 1024px){
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1070 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1070 .elementor-1070 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1070 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+/* GAMA COMERCIAL */
+
+@media(max-width:921px){
+	
+	#post-874 .elementor-widget-wrap > .elementor-element {
+  width: 70%;
+		margin:auto;
+}
+	
+	#post-874 .elementor-874 .elementor-element.elementor-element-3af6017 > .elementor-widget-container{
+		padding: 20px 0px 20px 50px;
+	}
+	
+	#post-874 .elementor-874 .elementor-element.elementor-element-3af6017 .elementor-heading-title{
+		font-size:30px;
+	}
+	
+	#post-874 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 16px;
+}
+}
+
+@media (max-width: 767px){
+	#post-874 .elementor-874 .elementor-element.elementor-element-7e21b87 > .elementor-container {
+  max-width: 350px;
+}	
+}
+
+@media(max-width:470px){
+	#post-874 .elementor-874 .elementor-element.elementor-element-3af6017 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-874 .elementor-874 .elementor-element.elementor-element-3af6017 .elementor-heading-title{
+		font-size:20px;
+	}
+}
+
+@media(max-width:330px){
+	#post-874 .elementor-widget-wrap > .elementor-element {
+  width: 100%;
+}
+}
+
+
+
+
+
+
+
+
+/* PUERTAS ENROLLABLES */
+
+@media (max-width: 1024px){
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1077 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1077 .elementor-1077 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1077 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+/* PUERTAS AUTOMÁTICA DE CRISTAL */
+
+@media (max-width: 1024px){
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1093 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1093 .elementor-1093 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1093 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+/* GAMA INDUSTRIAL */
+
+@media (max-width: 1024px){
+	#post-911 .elementor-911 .elementor-element.elementor-element-7e21b87 {
+  padding: 40px 10px 0px 10px;
+}	
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-28f095c {
+  padding: 0px 10px 40px 10px;
+}
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-7e21b87 > .elementor-container {
+  max-width: 750px;
+}
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-28f095c > .elementor-container {
+  max-width: 750px;
+}
+}
+
+@media(max-width:921px){
+	
+	#post-911 .elementor-widget-wrap > .elementor-element {
+  width: 70%;
+		margin:auto;
+}
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-3af6017 > .elementor-widget-container{
+		padding: 20px 0px 20px 50px;
+	}
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-3af6017 .elementor-heading-title{
+		font-size:30px;
+	}
+	
+	#post-911 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 16px;
+}
+}
+
+@media (max-width: 767px){
+	#post-911 .elementor-911 .elementor-element.elementor-element-7e21b87 > .elementor-container {
+  max-width: 350px;
+}	
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-7e21b87 {
+  padding: 20px 20px 0 20px;
+}
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-28f095c > .elementor-container {
+  max-width: 350px;
+}
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-28f095c {
+  padding: 0 20px 20px 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-911 .elementor-911 .elementor-element.elementor-element-3af6017 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-911 .elementor-911 .elementor-element.elementor-element-3af6017 .elementor-heading-title{
+		font-size:20px;
+	}
+}
+
+@media(max-width:330px){
+	#post-911 .elementor-widget-wrap > .elementor-element {
+  width: 100%;
+}
+}
+
+
+
+
+
+
+
+
+/* PUERTA SECCIONAL INDUSTRIAL */
+@media (max-width: 1024px){
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1107 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1107 .elementor-1107 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1107 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+/* PUERTA BASCULANTE CONTRAPESAS */
+
+@media (max-width: 1024px){
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1134 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1134 .elementor-1134 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1134 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+/* PUERTA RÁPIDA PVC */
+
+@media (max-width: 1024px){
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1142 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1142 .elementor-1142 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1142 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+/* TRABAJOS METÁLICOS INDUSTRIAL */
+
+@media (max-width: 1024px){
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px;
+	}	
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-eb564d3 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-4f959b4 {
+  width: 100%;
+}
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 90px;
+}
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 90px;
+}
+}
+
+@media(max-width:921px){
+	#post-1150 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 20px;
+}
+}
+
+@media(max-width:470px){
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-74d36843 > .elementor-widget-container{
+		padding: 20px 0px 20px 20px;
+	}
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-74d36843 .elementor-heading-title{
+		font-size:25px;
+	}
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-8ww1a62 {
+  padding: 90px 40px;
+}
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-c49ddf4 {
+  padding: 70px 40px;
+}
+	
+	#post-1150 .elementor-1150 .elementor-element.elementor-element-3c0d79c {
+  padding: 70px 40px;
+}
+	
+	#post-1150 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 30px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SERVICIOS */
+
+@media(max-width:1024px){
+	#post_32 h1, .entry-content h1, .entry-content h1 a {
+  font-size: 40px;
+}
+	
+	#post-32 h3, .entry-content h3 {
+  font-size: 1.375rem;
+}
+}
+
+@media(max-width:967px){
+	
+	#post-32 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 10px 50px 10px 50px;
+}
+	
+	#post_32 .elementor-32 .elementor-element.elementor-element-64ca240{
+		font-size:10px;
+	}
+	
+	#post_32 .elementor-32 .elementor-element.elementor-element-2d881f44{
+		font-size:10px;
+	}
+	
+	#post_32 .elementor-32 .elementor-element.elementor-element-73be865d{
+		font-size:10px;
+	}
+}
+
+
+
+
+@media(max-width:767px){
+	
+	#post-32 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 16px;
+		line-height:20px;
+}
+	
+	#post_32 .elementor-32 .elementor-element.elementor-element-64ca240{
+		font-size:12px;
+	}
+	
+	#post_32 .elementor-32 .elementor-element.elementor-element-2d881f44{
+		font-size:12px;
+	}
+	
+	#post_32 .elementor-32 .elementor-element.elementor-element-73be865d{
+		font-size:12px;
+	}
+}
+
+
+
+
+@media (max-width: 420px){
+	#post_32 .elementor-32 .elementor-element.elementor-element-365ba0bd .elementor-heading-title {
+  font-size: 14px;
+		line-height:24px;
+}
+	
+	#post_32 h1, .entry-content h1, .entry-content h1 a {
+  font-size: 28px;
+}
+	
+	#post-32 h3, .entry-content h3 {
+  font-size: 13px;
+}
+	
+	#post-32 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 10px 30px 10px 30px;
+}
+	
+}
+
+
+
+
+
+
+
+/* MANTENIMIENTO */
+
+@media(max-width:921px){
+	#post-31 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 10px 50px 10px 50px;
+}
+	
+	#post-31 h2, .entry-content h2, .entry-content h2 a {
+  font-size: 20px;
+}
+	
+	#post-31 .elementor-widget-heading h2.elementor-heading-title {
+  line-height: 1.5;
+}
+}
+
+
+@media (max-width: 767px){
+	#post-31 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 16px;
+}
+}
+	
+	
+/*
+@media (max-width: 500px){
+	#post-31 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 0;
+}	
+}
+*/
+
+	
+	
+@media(max-width:412px){
+		
+	.elementor-31 .elementor-element.elementor-element-3d99e122 .elementor-heading-title {
+  font-size: 20px;
+}
+		
+		#post-31 h3, .entry-content h3 {
+  font-size: 13px;
+}
+	
+	#post-31 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 10px 20px 10px 20px;
+}
+	
+}
+
+
+
+
+
+
+
+
+/* CONTACTO */
+
+@media(max-width:767px){
+		
+		#post-33 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 24px;
+}
+		
+		#post-33 .elementor-widget .elementor-icon-list-item, .elementor-widget .elementor-icon-list-item a{
+			justify-content:center;
+		}
+		
+		#post-33 .elementor-33 .elementor-element.elementor-element-29b02a85 > .elementor-container > .elementor-column > .elementor-widget-wrap{
+			text-align:center;
+		}
+	}
+	
+	
+@media (max-width:400px){
+	
+	#post-33 h3, .entry-content h3, .entry-content h3 a {
+  font-size: 16px;
+}
+	
+			#post-33 .elementor-33 .elementor-element.elementor-element-32a6ad1b .elementor-heading-title {
+  font-size: 22px;
+}
+
+	#post-33 .elementor-column-gap-default > .elementor-column > .elementor-element-populated {
+  padding: 0;
+}		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
