@@ -102,7 +102,11 @@ $(document).ready( () => {
 
 
 
+    
 
+    // Fecha footer.
+    const year = new Date();
+    document.getElementById("footerDate").innerHTML = year.getFullYear();
 
 
 
